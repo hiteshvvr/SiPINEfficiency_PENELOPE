@@ -1,0 +1,28 @@
+
+ **********************************
+ **   PENELOPE  (version 2011)   **
+ **********************************
+
+ EMIN = 4.0000E+02 eV,  EMAX = 2.5000E+04 eV
+
+
+ **********************
+ **   1st material   **
+ **********************
+
+ Material data file: Copper.dat          
+
+ *** Simulation parameters:
+     Electron absorption energy = 5.0000E+02 eV
+       Photon absorption energy = 5.0000E+02 eV
+     Positron absorption energy = 4.0000E+02 eV
+      C1 = 1.0000E-01,       C2 = 1.0000E-01
+     WCC = 5.0000E+02 eV,   WCR = 5.0000E+02 eV
+
+ PENELOPE (v. 2011)  Material data file ...............
+ Material: COPPER  (29)                                                  
+ Mass density = 8.96000000E+00 g/cm**3
+ Number of elements in the molecule =  1
+    Element: Cu (Z=29), atoms/molecule = 1.00000000E+00
+ Mean excitation energy = 3.22000000E+02 eV
+ PENELOPE (v. 2011)  End of material data file ........
